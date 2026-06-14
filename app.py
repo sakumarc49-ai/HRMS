@@ -835,7 +835,7 @@ SCENARIOS = {
             },
             "How can we prevent churn among the VIP subscribers?": {
                 "thinking": "Scanning CRM database for high-risk subscribers... checking promo rules...",
-                "response": "We have 420 VIP users in the congested area. I recommend dynamically pushing a 5G Priority Pass to their SIM profiles (elevating QoS queue priority) and sending a localized SMS offering a $10 billing credit for any inconvenience. This drops churn risk from 15.6% to 1.2%."
+                "response": "We have 420 VIPs in the congested area. I recommend dynamically pushing a 5G Priority Pass to their SIM profiles (elevating QoS queue priority) and sending a localized SMS offering a $10 billing credit for any inconvenience. This drops churn risk from 15.6% to 1.2%."
             }
         },
         "recommendations": [
